@@ -27,7 +27,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Computer-vision" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,10 +44,19 @@
       <option name="presentableId" value="Default" />
       <updated>1614100591937</updated>
       <workItem from="1614100593405" duration="7120000" />
+      <workItem from="1614284976648" duration="608000" />
+      <workItem from="1614517725058" duration="14000" />
+      <workItem from="1616416713146" duration="672000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1614517737135">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1614517737135" />
   </component>
 </project>
